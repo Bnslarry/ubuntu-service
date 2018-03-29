@@ -20,6 +20,15 @@
         }
       },
       {
+        "package": "CMySQL",
+        "repositoryURL": "https://github.com/vapor/cmysql.git",
+        "state": {
+          "branch": null,
+          "revision": "d931ed6ce52e772cd364fc0da59312440d6eee43",
+          "version": "2.0.2"
+        }
+      },
+      {
         "package": "Console",
         "repositoryURL": "https://github.com/vapor/console.git",
         "state": {
@@ -107,6 +116,33 @@
           "branch": null,
           "revision": "17c2bf072ae1698aa7d6c96472ff9b4a970c1816",
           "version": "2.2.0"
+        }
+      },
+      {
+        "package": "MySQL",
+        "repositoryURL": "https://github.com/vapor/mysql.git",
+        "state": {
+          "branch": null,
+          "revision": "22f7cc1cb060f1e749a5d8feebb1803148744975",
+          "version": "2.0.3"
+        }
+      },
+      {
+        "package": "MySQLDriver",
+        "repositoryURL": "https://github.com/vapor/mysql-driver.git",
+        "state": {
+          "branch": null,
+          "revision": "2f6eead84aabb265a4dae3e07083dd1b7eaa262b",
+          "version": "2.0.3"
+        }
+      },
+      {
+        "package": "MySQLProvider",
+        "repositoryURL": "https://github.com/vapor/mysql-provider.git",
+        "state": {
+          "branch": null,
+          "revision": "b32b3ccce7cbe6f76a63dd9cab493ed458a31222",
+          "version": "2.0.0"
         }
       },
       {
